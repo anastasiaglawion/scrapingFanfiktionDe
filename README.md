@@ -1,0 +1,1 @@
+Die Dateien beinhalten Skripte, die die Seite Fanfiktion.de scrapen. Jedes Skript ruft die Datei "Funktionen_Fanfiction" auf, die Skripte 3-5 können parallel ausgeführt werden, nachdem 1 und 2 ausgeführt wurde. 
